@@ -7,6 +7,7 @@
 - ✅ Crazy about TDD and software quality
 - 📱 My passion is Mobile
 - 🤓 Programming Languages hoarder
+- 🏋 Gym Rat
 
 ### Connect with me:
 
@@ -16,7 +17,7 @@
 <br />
 
 ---
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Post(s)
 <!-- BLOG-POST-LIST:START -->
 - [Blazing Fast Driver Tests - made easy](https://medium.com/flutter-community/blazing-fast-driver-tests-made-easy-1b8c0ccf211b?source=rss-12240235795b------2)
 <!-- BLOG-POST-LIST:END -->
