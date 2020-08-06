@@ -3,11 +3,11 @@
 [![Linkedin: lhs-santos](https://img.shields.io/badge/-Tomek%20Pola%C5%84ski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomaszpolanski/)](https://www.linkedin.com/in/ltomaszpolanski/)
 
 ## About me
-- 🤯 Bit fun of Flutter!
-- ✅ Crazy about TDD and software quality
-- 📱 My passion is Mobile
-- 🤓 Programming Languages hoarder
-- 🏋 Gym Rat
+- 🤯 Big Fun of Flutter!
+- ✅ Crazy about TDD and Software Quality
+- 📱  My Passion is Mobile
+- 🤓 Programming-Languages-Hoarder
+- 🏋 Gym-Rat
 
 ### Connect with me:
 [<img align="left" alt="Tomek | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
