@@ -11,6 +11,9 @@
 [<img align="left" alt="tpolansk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Tomek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+---
+
+<img align="left" alt="Tomek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tomaszpolanski&show_icons=true&hide_border=true" />
 
 
 [website]: https://tomek-polanski.com/
