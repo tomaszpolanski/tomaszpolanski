@@ -10,8 +10,8 @@
 - 🏋 Gym Rat
 
 ### Connect with me:
-
-[<img align="left" alt="tpolansk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Tomek | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Tomek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Tomek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 <br />
@@ -31,5 +31,6 @@
 [beta_website]: https://tomaszpolanski.github.io/profile/#/
 [twitter]: https://twitter.com/tpolansk
 [linkedin]: https://www.linkedin.com/in/tomaszpolanski/
+[email]: mailto:polanski.tomek@gmail.com
 
 <!--- Thanks codeSTACKr (https://www.youtube.com/watch?v=ECuqb5Tv9qI) for nice tutorial on how to create nice Github profile page --->
