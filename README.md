@@ -10,6 +10,14 @@
 
 [<img align="left" alt="tpolansk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Tomek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+<br />
+
+---
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -21,4 +29,4 @@
 [twitter]: https://twitter.com/tpolansk
 [linkedin]: https://www.linkedin.com/in/tomaszpolanski/
 
-<!--- Thanks codeSTACKr for nice tutorial on how to create nice Github profile page --->
+<!--- Thanks codeSTACKr (https://www.youtube.com/watch?v=ECuqb5Tv9qI) for nice tutorial on how to create nice Github profile page --->
