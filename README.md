@@ -16,7 +16,7 @@
 ---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Blazing Fast Driver Tests - made easy](https://medium.com/flutter-community/blazing-fast-driver-tests-made-easy-1b8c0ccf211b?source=rss-12240235795b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
