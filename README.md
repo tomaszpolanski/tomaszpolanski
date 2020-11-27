@@ -20,7 +20,6 @@
 ### 📕 Latest Blog Post(s)
 <!-- BLOG-POST-LIST:START -->
 - [Running Flutter Desktop on Stable channel](https://medium.com/@tomek-polanski/running-flutter-desktop-on-stable-channel-c2ee38157e7b?source=rss-12240235795b------2)
-- [Blazing Fast Driver Tests - made easy](https://medium.com/flutter-community/blazing-fast-driver-tests-made-easy-1b8c0ccf211b?source=rss-12240235795b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
