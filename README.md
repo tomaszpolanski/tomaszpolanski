@@ -19,7 +19,7 @@
 ---
 ### 📕 Latest Blog Post(s)
 <!-- BLOG-POST-LIST:START -->
-- [Running Flutter Desktop on Stable channel](https://medium.com/@tomek-polanski/running-flutter-desktop-on-stable-channel-c2ee38157e7b?source=rss-12240235795b------2)
+- [Running Flutter Desktop on Stable channel](https://tomek-polanski.medium.com/running-flutter-desktop-on-stable-channel-c2ee38157e7b?source=rss-12240235795b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
