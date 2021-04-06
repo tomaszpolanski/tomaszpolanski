@@ -19,6 +19,7 @@
 ---
 ### 📕 Latest Blog Post(s)
 <!-- BLOG-POST-LIST:START -->
+- [The New Flutter Integration Tests — Are They any Good?](https://tomek-polanski.medium.com/the-new-flutter-integration-tests-are-they-any-good-a7c0fc506d6b?source=rss-12240235795b------2)
 - [Running Flutter Desktop on Stable channel](https://tomek-polanski.medium.com/running-flutter-desktop-on-stable-channel-c2ee38157e7b?source=rss-12240235795b------2)
 <!-- BLOG-POST-LIST:END -->
 
