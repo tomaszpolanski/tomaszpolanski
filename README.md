@@ -1,5 +1,5 @@
 ### Welcome, I'm [Tomek][website] 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/tpolansk?label=Follow)](https://twitter.com/tpolansk)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tpolansk?label=Tomek&style=social)](https://twitter.com/tpolansk)
 [![Linkedin: lhs-santos](https://img.shields.io/badge/-Tomek%20Pola%C5%84ski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomaszpolanski/)](https://www.linkedin.com/in/ltomaszpolanski/)
 
 ## About me
