@@ -19,6 +19,7 @@
 ---
 ### 📕 Latest Blog Post(s)
 <!-- BLOG-POST-LIST:START -->
+- [Bang! Operator and how to improve your Dart Nullability](https://tomek-polanski.medium.com/bang-operator-and-how-to-improve-your-dart-nullability-ddc49ffbc7ff?source=rss-12240235795b------2)
 - [The New Flutter Integration Tests — Are They any Good?](https://tomek-polanski.medium.com/the-new-flutter-integration-tests-are-they-any-good-a7c0fc506d6b?source=rss-12240235795b------2)
 - [Running Flutter Desktop on Stable channel](https://tomek-polanski.medium.com/running-flutter-desktop-on-stable-channel-c2ee38157e7b?source=rss-12240235795b------2)
 - [Blazing Fast Driver Tests - made easy](https://medium.com/flutter-community/blazing-fast-driver-tests-made-easy-1b8c0ccf211b?source=rss-12240235795b------2)
@@ -28,7 +29,6 @@
 - [Flutter Animations Cheat Sheet](https://medium.com/flutter-community/flutter-animations-cheat-sheet-7f8cebfb850c?source=rss-12240235795b------2)
 - [Flutter Laggy Animations: How Not To setState](https://medium.com/flutter-community/flutter-laggy-animations-how-not-to-setstate-f2dd9873b8fc?source=rss-12240235795b------2)
 - [Elements, Keys and Flutter’s performance](https://medium.com/flutter-community/elements-keys-and-flutters-performance-3ef15c90f607?source=rss-12240235795b------2)
-- [Do you see the difference? — Flutter Golden Files](https://medium.com/flutter-community/do-you-see-the-difference-flutter-golden-files-a1d431ed8a69?source=rss-12240235795b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
